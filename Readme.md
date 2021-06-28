@@ -1,5 +1,5 @@
 add two number
-pass two value in object form
+pass two value in object 
 
 import {adds} from 'adds';
 

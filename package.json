@@ -1,0 +1,22 @@
+{
+  "name": "addsa",
+  "version": "1.0.0",
+  "description": "add two number",
+  "main": "adds.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sau16/adds.git"
+  },
+  "keywords": [
+    "Add"
+  ],
+  "author": "Saurabh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sau16/adds/issues"
+  },
+  "homepage": "https://github.com/sau16/adds#readme"
+}
